@@ -15,6 +15,7 @@ Standards-Version: 3.9.4
 Package: pkg-manager-longer-timeouts
 Architecture: all
 Depends: ${misc:Depends}
+Suggests: pkg-manager-no-autoupdate, kde-apper-no-autoupdate
 Description: Longer Timeouts for Package Manager APT
  Raising timeout and retries using configuration snippet. Useful in context of
  slow networks and anonymity distributions.
