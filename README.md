@@ -3,6 +3,9 @@
 Raising timeout and retries using configuration snippet. Useful in context of
 slow networks and anonymity distributions.
 
+Ships a configuration file /etc/apt/apt.conf.d/90longer-timeouts to configure
+apt-get.
+
 (This package description has been [automatically](https://github.com/Whonix/whonix-developer-meta-files/blob/master/debug-steps/packaging-helper-script) extracted and mirrored from `debian/control`.)
 
 # Generic Readme #
