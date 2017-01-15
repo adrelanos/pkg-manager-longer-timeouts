@@ -10,7 +10,7 @@ Build-Depends: debhelper (>= 9), faketime, genmkfile
 Homepage: https://github.com/Whonix/pkg-manager-longer-timeouts
 Vcs-Browser: https://github.com/Whonix/pkg-manager-longer-timeouts
 Vcs-Git: https://github.com/Whonix/pkg-manager-longer-timeouts.git
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 
 Package: pkg-manager-longer-timeouts
 Architecture: all
