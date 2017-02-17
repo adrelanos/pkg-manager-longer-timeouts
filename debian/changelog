@@ -1,3 +1,9 @@
+pkg-manager-longer-timeouts (3:1.4-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Fri, 17 Feb 2017 14:04:12 +0000
+
 pkg-manager-longer-timeouts (3:1.3-1) unstable; urgency=medium
 
   * New upstream version (local package).
